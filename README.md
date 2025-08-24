@@ -11,7 +11,7 @@ The analysis focuses on understanding **customer performance, market trends, fin
 ## 🎯 Project Objectives  
 
 # Sales Analytics  
-**1.** [Customer Performance Report]()
+**1.** [Customer Performance Report](https://github.com/Naveen-Jhinjarye/Sales-And-Finanace-Analytics/blob/main/Customer%20Sales%20Performance.pdf)
    - Analyzed customer-wise sales for the years **2019, 2020, and 2021**  
    - Compared **2021 vs 2020 sales ratio** to measure growth/decline trends  
 
