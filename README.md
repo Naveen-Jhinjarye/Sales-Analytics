@@ -1,5 +1,5 @@
-# Sales-Analytics
-# 📊 Sales Analytics Project – AtliQ Hardwares  
+# Sales And Finanace Analtics
+## 📊 Sales Analytics Project – AtliQ Hardwares  
 
 ## 📌 Introduction  
 This project focuses on **Sales Analytics** for *AtliQ Hardwares*, a company that manufactures computer accessories such as **PCs, laptops, mice, and other hardware products**.  
